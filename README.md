@@ -1,4 +1,4 @@
-# Chat App: a real time chat application
+# Sensors app
 ![](/ReadMe_images/logo.jpg)
 
 This repo is for displaying sensor data. It uses python backend with FastAPI framework + React frontend.
